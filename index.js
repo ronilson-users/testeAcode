@@ -3,6 +3,6 @@
 
 
 
-function  h g(param) {
+function  g(param) {
   
 } 
