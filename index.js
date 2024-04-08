@@ -1,4 +1,5 @@
 
-function g(param) {
+funct
+ion g(param) {
   // Tab to edit
 }
