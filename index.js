@@ -1,8 +1,5 @@
 
 
-
-
-
 function  g(param) {
   
 } 
